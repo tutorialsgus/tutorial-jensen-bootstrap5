@@ -1,8 +1,18 @@
+Aula 01-04
+Starter templates
 
+- A única coisa que foi feita é que foi adicionado um boilerplate code usando CDNs, para quem não quer manter a cópia local do bootstrap.min.css nem do bootstrap.bundle.min.js.
+- commit message: Aula_01-04 Template with CDNs for bootstrap files
+
+	starter-template-CDN.html  # o código com boilerplate code com CDNs
 
 Aula 01-03
 Downloading and installing Bootstrap 5
 
 - Feita um template inicial padrão chamado starter-template. Página básica do tipo hello world que joga um alert na tela dizendo que tá ok
-- commit message: Aula_01-03 Hello world em bootstrap. Joga alert na tela. Tem starter-template.html.
+- commit message: Aula_01-03 Hello world em bootstrap. Joga alert na tela. Tem starter-template.html
 
+        new file:   .gitignore
+        new file:   index.html  # um hello world com um alert na tela.
+        new file:   releases.txt
+        new file:   starter-template.html  # boiler plate mais básico possível
